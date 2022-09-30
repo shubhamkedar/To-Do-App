@@ -1,0 +1,306 @@
+body {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 1368px;
+    /* UI Properties */
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+
+
+
+#head {
+    color: #00A5EC;
+}
+
+.navbar {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 94px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 30px #7B7B7B29;
+    opacity: 1;
+}
+
+.navbar h1 {
+    position: relative;
+    top: 23px;
+    left: 137px;
+    width: 196px;
+    height: 49px;
+    text-align: left;
+    font: normal normal bold 40px/49px Inter;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+.sign {
+    position: relative;
+    left: 422px;
+    top: 65px;
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.sign2 {
+    position: relative;
+    left: 1021px;
+    top: 33px;
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.sign2 a {
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.sign2 p {
+    position: absolute;
+    left: 42px;
+    top: -15px;
+    font-weight: 900;
+    font-size: large;
+}
+
+.plus {
+    position: relative;
+    top: 48px;
+    left: 1011px;
+    width: 215px;
+    height: 50px;
+    /* UI Properties */
+    opacity: 1;
+}
+
+.plus p {
+    position: relative;
+    top: -67px;
+    left: 64px;
+    width: 150px;
+    height: 26px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 22px/26px Inter;
+    letter-spacing: 0px;
+    color: #424242;
+    opacity: 1;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    /* UI Properties */
+    background: #00A5EC 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.container {
+    margin-top: -145px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.child1 {
+    position: relative;
+    top: 220px;
+    left: 139px;
+    width: 352px;
+    height: 360px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.child1:hover {
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.child2:hover {
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.child3:hover {
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.child4:hover {
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.child5:hover {
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+
+.child2 {
+    position: relative;
+    top: 220px;
+    left: 139px;
+    width: 352px;
+    height: 360px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.child3 {
+    position: relative;
+    top: 220px;
+    left: 139px;
+    width: 352px;
+    height: 360px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.child4 {
+    position: relative;
+    top: 220px;
+    left: 139px;
+    width: 352px;
+    height: 360px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.child5 {
+    position: relative;
+    top: 220px;
+    left: 139px;
+    width: 352px;
+    height: 360px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.bob {
+    padding-left: 27px;
+    width: 257px;
+    height: 24px;
+    text-align: left;
+    font: normal normal medium 20px/24px Inter;
+    letter-spacing: 0px;
+    color: #00A5EC;
+    opacity: 1;
+}
+
+.church {
+
+
+    width: 103px;
+    height: 21px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 18px/21px Inter;
+    letter-spacing: 0px;
+    color: #C2C2C2;
+    opacity: 1;
+    text-decoration: line-through;
+}
+
+form {
+    padding-left: 59px;
+    padding-top: 105px;
+}
+
+.bigbro {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 1036px;
+    /* UI Properties */
+    background: #21212008 0% 0% no-repeat padding-box;
+    opacity: 0.6;
+    z-index: -1;
+}
+
+.pop {
+    position: absolute;
+    top: 247px;
+    left: 433px;
+    width: 388px;
+    height: 222px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 20px #67676729;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    opacity: 1;
+    z-index: +1;
+}
+
+.hate p {
+
+    width: 148px;
+    height: 26px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 22px/26px Inter;
+    letter-spacing: 0px;
+    color: #404040;
+    opacity: 1;
+    padding-left: 15px;
+}
+
+#love {
+    position: relative;
+    top: -39px;
+    left: 358px;
+    width: 18px;
+    height: 18px;
+    color: grey;
+    opacity: 1;
+}
+
+#love a {
+    text-decoration: none;
+    color: #404040;
+}
+
+.pop button {
+    position: relative;
+    top: -38px;
+    left: 210px;
+    width: 93px;
+    height: 43px;
+    background: #00A5EC 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    
+}
+.pop button a{
+    text-decoration: none;
+    color: white;
+    
+}
+.pop input {
+    position: absolute;
+    top: 98px;
+    left: 6px;
+    width: 369px;
+    height: 40px;
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    border: 1px solid #EDEDED;
+    border-radius: 4px;
+    opacity: 1;
+}
